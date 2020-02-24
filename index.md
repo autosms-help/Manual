@@ -4,11 +4,11 @@
 * [刷机教程](#刷机教程)
     - [准备工作](#准备工作)
     - [製作流程](#製作流程)
-* [Autocall](#Autocall)
-    - [Autocall下载](#Autocall下载)
-    - [Autocall教程](#Autocall教程)
-* [AutoSMS](#AutoSMS)
-    - [AutoSMS下载](#AutoSMS下载)
+* [Autocall](#autocall)
+    - [Autocall下载](#autocall下载)
+    - [Autocall教程](#autocall教程)
+* [AutoSMS](#autoSMS)
+    - [AutoSMS下载](#autoSMS下载)
 
 ### 刷机教程
 
