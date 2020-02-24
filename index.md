@@ -2,6 +2,7 @@
 
 ### 目录
 * [刷机教程](#刷机教程)
+    - [下载地址](#下载地址)
     - [准备工作](#准备工作)
     - [製作流程](#製作流程)
 * [Autocall](#autocall)
@@ -12,12 +13,14 @@
 
 ### 刷机教程
 
+##### 下載地址
+- 工具軟件和鏡像文件下載地址： [下载地址](https://drive.google.com/open?id=1jNNt1J-vHAFDy5WqQhr8e7xdBKbYqsna)
+
 ##### 准备工作
-- 1. 工具軟件和鏡像文件下載地址: [下载地址](https://drive.google.com/open?id=1jNNt1J-vHAFDy5WqQhr8e7xdBKbYqsna)
-- 2. 驅動安裝:方法見相應文件夾裡的說明文件
-- 3. 工具軟件文件名為 `Flash Tools.zip`。下載完成後，解壓至桌面，桌面上會出現一個名為 `Flash Tools` 的文件夾，裡面有四個文件夾。
-- 4. 鏡像文件:下載完成後， 將文件解壓縮至桌面。(步驟 3 和 4:如果把文件解壓至其它地方，一定要保證文件路徑上沒有中文)
-- 5. 雙擊打開 `Flash Tools/SP_Flash_Tool_1` 文件夾裡的 `flash_tool.exe` 文件，將 Scatter-loading File 的文件改為指向對應鏡像文件夾裡的 `scatter file.txt` 文件(點擊`choose`按鈕選擇)。其它設置都不需要改動。保持該軟件打開。
+- 1. 驅動安裝:方法見相應文件夾裡的說明文件
+- 2. 工具軟件文件名為 `Flash Tools.zip`。下載完成後，解壓至桌面，桌面上會出現一個名為 `Flash Tools` 的文件夾，裡面有四個文件夾。
+- 3. 鏡像文件:下載完成後， 將文件解壓縮至桌面。(步驟 3 和 4:如果把文件解壓至其它地方，一定要保證文件路徑上沒有中文)
+- 4. 雙擊打開 `Flash Tools/SP_Flash_Tool_1` 文件夾裡的 `flash_tool.exe` 文件，將 Scatter-loading File 的文件改為指向對應鏡像文件夾裡的 `scatter file.txt` 文件(點擊`choose`按鈕選擇)。其它設置都不需要改動。保持該軟件打開。
 
 ##### 製作流程
 
