@@ -14,7 +14,7 @@
 ### 刷机教程
 
 ##### 下載地址
-- 工具軟件和鏡像文件下載地址： [下载地址](https://drive.google.com/open?id=1jNNt1J-vHAFDy5WqQhr8e7xdBKbYqsna)
+- 工具軟件和鏡像文件下載地址： [下载地址](https://drive.google.com/drive/folders/1ex_Y1AcZ8SUCraDAfWuDN-Cc9TH8dFTT?usp=sharing)
 
 ##### 准备工作
 - 1. 驅動安裝:方法見相應文件夾裡的說明文件
@@ -35,7 +35,7 @@
 ### Autocall
 
 ##### Autocall下载
-- Autocall: [https://drive.google.com/open?id=1Lg8sTwvp5hjXu0V73_eIoYgW0sgcYU-B](https://drive.google.com/open?id=1Lg8sTwvp5hjXu0V73_eIoYgW0sgcYU-B)
+- Autocall: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
 
 ##### Autocall教程
 - 1. 打开 Autocall
@@ -45,4 +45,4 @@
 ### AutoSMS
 
 ##### AutoSMS下载
-- AutoSMS: [https://drive.google.com/open?id=1jVrAEJ7WN3SPQj2nnrLrb4sSAvLlgkJq](https://drive.google.com/open?id=1jVrAEJ7WN3SPQj2nnrLrb4sSAvLlgkJq)
+- AutoSMS: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
