@@ -36,6 +36,7 @@
 
 ##### Autocall下载
 - Autocall: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
+- Autocall 需要配套使用 CallActive。如果没有，请下载。[https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing]
 
 ##### Autocall教程
 - 1. 打开 Autocall
