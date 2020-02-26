@@ -37,7 +37,7 @@
 ##### Autocall下载
 - Autocall: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
 - Autocall 需要配套使用 CallActive。如果没有，请下载。[https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing]
-
+- 如果出现“辅助包未安装...”的字样，请下载AutoCall.zip，解压之后使用RE管理器放到/sdcard/下。
 ##### Autocall教程
 - 1. 打开 Autocall
 - 2. 左下角 点击 `开始`
