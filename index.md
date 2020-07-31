@@ -45,5 +45,5 @@
 
 ### AutoSMS
 
-##### AutoSMS下载
-- AutoSMS: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
+##### AutoSMS下载 V25
+- AutoSMS: [https://drive.google.com/file/d/1JuQ0fgrHXXn6SHzDr8h60wgdwMUAd6tR/view?usp=sharing](https://drive.google.com/file/d/1JuQ0fgrHXXn6SHzDr8h60wgdwMUAd6tR/view?usp=sharing)
