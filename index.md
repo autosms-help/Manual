@@ -11,6 +11,7 @@
 * [AutoSMS](#autoSMS)
     - [AutoSMS下载](#autoSMS下载)
 * [MTK自改串工具](#MTK自改串工具)
+* [sim卡处理软件](#sim卡处理软件)
 
 ### 刷机教程
 
@@ -52,3 +53,7 @@
 ### MTK自改串工具
 - 下载地址: [https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing](https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing)
 - 资源来自:[https://tiandixing.org/viewtopic.php?f=20&t=184501&start=0](https://tiandixing.org/viewtopic.php?f=20&t=184501&start=0)
+
+### sim卡处理软件
+- 下载地址: [https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing](https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing)
+
