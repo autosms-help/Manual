@@ -1,17 +1,42 @@
 # 教程
 
 ### 目录
+
+* [Sim卡激活](#Sim卡激活)
+* [检查手机网络设置](#检查手机网络设置)
+* [软件下载](#软件下载)
+* [Autocall相关](#Autocall相关)
+* [Autocall教程](#Autocall教程)
 * [刷机教程](#刷机教程)
     - [下載地址](#下載地址)
     - [准备工作](#准备工作)
     - [製作流程](#製作流程)
-* [Autocall](#autocall)
-    - [Autocall下载](#autocall下载)
-    - [Autocall教程](#autocall教程)
-* [AutoSMS](#autoSMS)
-    - [AutoSMS下载](#autoSMS下载)
-* [MTK自改串工具](#MTK自改串工具)
-* [sim卡处理软件](#sim卡处理软件)
+
+
+#### Sim卡激活
+Lycamobile Sim卡激活
+- 方法1: 使用在线激活工具: http://ninemagicwords.pythonanywhere.com/activate
+- 方法2: 将未激活的卡插入手机，然后拨打622，根据语音提示激活。
+
+#### 检查手机网络设置
+- 检查「手机号」: `设置`->`SIM卡` 查看屏幕顶部，应该显示正常的手机号码。如果这里显示的是100000****的话，说明Sim还没有激活。
+- 检查「首选SIM卡」: `设置`->`SIM卡` 查看屏幕中部「首选SIM卡」，其中`移动数据网络``通话``短信`应该选择为当前SIM卡。
+- 检查「APN设置」: `设置`->`更多`->`移动网络`->`接入点名称（APN）` 这里应该选“lycamobile”。如果没有找到“lycamobile”，可以手动添加APN。具体设置可以参考https://www.lycamobile.us/en/help/mobile-web-settings/
+
+#### 软件下载
+- Autocall: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
+- AutoSMS V25: [https://drive.google.com/file/d/1PPumqra87UrX_nG4VINPNWHTTbNjjAxv/view?usp=sharing](https://drive.google.com/file/d/1PPumqra87UrX_nG4VINPNWHTTbNjjAxv/view?usp=sharing)
+- MTK自改串工具: [https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing](https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing)
+- MTK自改串工具（来源）:[https://tiandixing.org/viewtopic.php?f=20&t=184501&start=0](https://tiandixing.org/viewtopic.php?f=20&t=184501&start=0)
+- sim卡处理软件: [https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing](https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing)
+
+#### Autocall相关
+- Autocall 需要配套使用 CallActive。一般刷机后都可以正常使用。如果没有，请下载。[https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing]
+- 如果出现“辅助包未安装...”的字样，请下载AutoCall.zip，解压之后使用RE管理器放到/sdcard/下。
+#### Autocall教程
+- 1. 打开 Autocall
+- 2. 左下角 点击 `开始`
+- 3. 选择 `自动运行`, 在`State`这一栏会开始计数。
 
 ### 刷机教程
 
@@ -33,27 +58,3 @@
 - **Note** 如果要製作的真相手機數量比較多時，為了提高效率，可以利用 台式機機箱後面的多個 USB 接口同步進行真相手機製作，工具文件 夾裡的其他幾個文件夾 SP_Flash_Tool_2、3、4 就是做這個用的。 機箱後面有幾個 USB 接口，就可以打開幾個文件夾裡的 flash_tool.exe 同步製作。注意:每次點擊 flash tool 界面上的 Download 按鈕之後，一定要先連上一台手機，然後才能點擊下一個 界面的 Download，再連另一台手機。不可以同時在幾個界面上都點 擊 Dowaload，然後才開始連第一台手機。這樣會報錯。
 而且切記，不要使用普通的筆記本電腦或者台式機機箱前面的 USB 接口同步製作真相手機，這樣容易出現異常。
 在製作真相手機的過程中，請保持心態純淨，正念加持。
-
-### Autocall
-
-##### Autocall下载
-- Autocall: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
-- Autocall 需要配套使用 CallActive。如果没有，请下载。[https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing]
-- 如果出现“辅助包未安装...”的字样，请下载AutoCall.zip，解压之后使用RE管理器放到/sdcard/下。
-##### Autocall教程
-- 1. 打开 Autocall
-- 2. 左下角 点击 `开始`
-- 3. 选择 `自动运行`, 在`State`这一栏会开始计数。
-
-### AutoSMS
-
-##### AutoSMS下载 V25
-- AutoSMS: [https://drive.google.com/file/d/1PPumqra87UrX_nG4VINPNWHTTbNjjAxv/view?usp=sharing](https://drive.google.com/file/d/1PPumqra87UrX_nG4VINPNWHTTbNjjAxv/view?usp=sharing)
-
-### MTK自改串工具
-- 下载地址: [https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing](https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing)
-- 资源来自:[https://tiandixing.org/viewtopic.php?f=20&t=184501&start=0](https://tiandixing.org/viewtopic.php?f=20&t=184501&start=0)
-
-### sim卡处理软件
-- 下载地址: [https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing](https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing)
-
