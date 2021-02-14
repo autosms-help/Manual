@@ -12,7 +12,6 @@
     - [准备工作](#准备工作)
     - [製作流程](#製作流程)
 
-
 #### Sim卡激活
 Lycamobile Sim卡激活
 - 方法1: 使用在线激活工具: http://ninemagicwords.pythonanywhere.com/activate
@@ -38,7 +37,9 @@ Lycamobile Sim卡激活
 - 2. 左下角 点击 `开始`
 - 3. 选择 `自动运行`, 在`State`这一栏会开始计数。
 
-### 刷机教程
+
+
+## 刷机教程
 
 ##### 下載地址
 - 3.0版刷机镜像: https://drive.google.com/drive/folders/1gPUPv5EGfgvF5x1nkALIhXIo3JK0WpDp?usp=sharing
