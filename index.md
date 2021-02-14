@@ -4,6 +4,7 @@
 
 * [Sim卡激活](#Sim卡激活)
 * [检查手机设置](#检查手机设置)
+* [手机数据网络基本排错方法](#手机数据网络基本排错方法)
 * [软件下载](#软件下载)
 * [Autocall相关](#Autocall相关)
 * [Autocall教程](#Autocall教程)
@@ -22,6 +23,14 @@ Lycamobile Sim卡激活
 - 检查「首选SIM卡」: `设置`->`SIM卡` 查看屏幕中部「首选SIM卡」，其中`移动数据网络` `通话` `短信`应该选择为当前SIM卡。
 - 检查「APN设置」: `设置`->`更多`->`移动网络`->`接入点名称（APN）` 这里应该选“lycamobile”。如果没有找到“lycamobile”，可以手动添加APN。具体设置可以参考https://www.lycamobile.us/en/help/mobile-web-settings/
 - 检查「数据流量」是否开启: `设置`->`流量使用情况` 查看屏幕顶部，`移动数据网络` 应该是开启的状态。
+
+#### 手机数据网络基本排错方法
+- 一般手机开机后，需要等一段时间，手机顶部信号状态会显示为E/3G/4G 这些都是正常的。
+- 如果信号栏显示正常，但是软件无法登陆，可以开启飞行模式，然后再关闭飞行模式，让手机从新搜索网络。
+- 另一种测试方法，是使用手机浏览器，访问某个网站，如google.com看是否可以连接。
+- 如果还是不能工作，可以使用该手机，给另一个手机打电话，看是否跟余额或卡激活有关。
+- 换一张确认好用的Sim卡，如果可以正常工作，即可判断是sim卡的问题。
+- 在信号不好，未满格的情况下，需要一些耐心，因为这种情况，需要更多的时间等待手机网络。
 
 #### 软件下载
 - Autocall: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
