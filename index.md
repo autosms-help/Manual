@@ -41,7 +41,8 @@ Lycamobile Sim卡激活
 ### 刷机教程
 
 ##### 下載地址
-- 工具軟件和鏡像文件下載地址： [下载地址](https://drive.google.com/drive/folders/1ex_Y1AcZ8SUCraDAfWuDN-Cc9TH8dFTT?usp=sharing)
+- 3.0版刷机镜像: https://drive.google.com/drive/folders/1gPUPv5EGfgvF5x1nkALIhXIo3JK0WpDp?usp=sharing
+- 刷机工具+驱动: https://drive.google.com/drive/folders/17LwbEJ4uI0Nsvag85p20XPw5yubogOYP?usp=sharing
 
 ##### 准备工作
 - 1. 驅動安裝:方法見相應文件夾裡的說明文件
