@@ -3,7 +3,7 @@
 ### 目录
 
 * [Sim卡激活](#Sim卡激活)
-* [检查手机网络设置](#检查手机网络设置)
+* [检查手机设置](#检查手机设置)
 * [软件下载](#软件下载)
 * [Autocall相关](#Autocall相关)
 * [Autocall教程](#Autocall教程)
@@ -17,7 +17,7 @@ Lycamobile Sim卡激活
 - 方法1: 使用在线激活工具: http://ninemagicwords.pythonanywhere.com/activate
 - 方法2: 将未激活的卡插入手机，然后拨打622，根据语音提示激活。
 
-#### 检查手机网络设置
+#### 检查手机设置
 - 检查「手机号」: `设置`->`SIM卡` 查看屏幕顶部，应该显示正常的手机号码。如果这里显示的是100000****的话，说明Sim还没有激活。
 - 检查「首选SIM卡」: `设置`->`SIM卡` 查看屏幕中部「首选SIM卡」，其中`移动数据网络` `通话` `短信`应该选择为当前SIM卡。
 - 检查「APN设置」: `设置`->`更多`->`移动网络`->`接入点名称（APN）` 这里应该选“lycamobile”。如果没有找到“lycamobile”，可以手动添加APN。具体设置可以参考https://www.lycamobile.us/en/help/mobile-web-settings/
