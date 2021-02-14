@@ -32,6 +32,14 @@ Lycamobile Sim卡激活
 - 换一张确认好用的Sim卡，如果可以正常工作，即可判断是sim卡的问题。
 - 在信号不好，未满格的情况下，需要一些耐心，因为这种情况，需要更多的时间等待手机网络。
 
+#### 换卡改串号
+每次更换Sim卡时，建议手机修改IMEI串号，这样可以最大限度降低手机被封锁的几率，方法如下：
+1. 关机，取出SIM卡，再开机。
+2. 在无Sim卡的状态下，点击`改串换卡`。（是个白色的开关标识）程序会自动更换IMEI串号，并关机。
+3. 插入新Sim卡，开机即可。
+4. 验证新串号，可以在电话拨打界面，拨`8#06#`。手机上会显示当前更换后的串号。
+5. 目前BLU手机还不支持改串号功能。K3 Note支持。
+
 #### 软件下载
 - Autocall: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
 - AutoSMS V25: [https://drive.google.com/file/d/1PPumqra87UrX_nG4VINPNWHTTbNjjAxv/view?usp=sharing](https://drive.google.com/file/d/1PPumqra87UrX_nG4VINPNWHTTbNjjAxv/view?usp=sharing)
