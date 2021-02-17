@@ -49,12 +49,12 @@ Lycamobile Sim卡激活
 - sim卡处理软件: [https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing](https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing)
 
 #### Autocall相关
-- Autocall 需要配套使用 CallActive。一般刷机后都可以正常使用。如果没有，请下载。[https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing]
+- Autocall 需要配套使用 CallActive。一般刷机后都可以正常使用。如果没有，请下载。[https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
 - 如果出现“辅助包未安装...”的字样，请下载AutoCall.zip，解压之后使用RE管理器放到/sdcard/下。
 #### Autocall教程
-- 1. 打开 Autocall
-- 2. 左下角 点击 `开始`
-- 3. 选择 `自动运行`, 在`State`这一栏会开始计数。
+1. 打开 Autocall
+2. 左下角 点击 `开始`
+3. 选择 `开始任务`, 在`State`这一栏会开始计数。
 
 
 
