@@ -7,6 +7,10 @@
 * [手机数据网络基本排错方法](#手机数据网络基本排错方法)
 * [换卡改串号](#换卡改串号)
 * [软件下载](#软件下载)
+    - [Autocall](#Autocall)
+    - [神彩](#神彩)
+    - [MTK自改串工具](#MTK自改串工具)
+    - [sim卡处理软件](#sim卡处理软件)
 * [Autocall相关](#Autocall相关)
 * [Autocall教程](#Autocall教程)
 * [刷机教程](#刷机教程)
@@ -42,10 +46,15 @@ Lycamobile Sim卡激活
 5. 目前BLU手机还不支持改串号功能。K3 Note支持。
 
 #### 软件下载
-- Autocall: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
-- AutoSMS V25: [https://drive.google.com/file/d/1PPumqra87UrX_nG4VINPNWHTTbNjjAxv/view?usp=sharing](https://drive.google.com/file/d/1PPumqra87UrX_nG4VINPNWHTTbNjjAxv/view?usp=sharing)
+
+##### Autocall
+- Autocall_v16: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
+##### 神彩
+- 神彩 V27: [https://drive.google.com/file/d/1hA1WSj2IdhhG3r5LSfxL1ekXr1_p0ITw/view?usp=sharing](https://drive.google.com/file/d/1hA1WSj2IdhhG3r5LSfxL1ekXr1_p0ITw/view?usp=sharing)
+##### MTK自改串工具
 - MTK自改串工具: [https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing](https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing)
 - MTK自改串工具（来源）:[https://tiandixing.org/viewtopic.php?f=20&t=184501&start=0](https://tiandixing.org/viewtopic.php?f=20&t=184501&start=0)
+##### sim卡处理软件
 - sim卡处理软件: [https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing](https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing)
 
 #### Autocall相关
