@@ -8,7 +8,7 @@
 * [换卡改串号](#换卡改串号)
 * [软件下载](#软件下载)
     - [Autocall](#Autocall)
-    - [神彩](#神彩)
+    - [神彩(以前是Autosms)](#神彩(以前是Autosms))
     - [MTK自改串工具](#MTK自改串工具)
     - [sim卡处理软件](#sim卡处理软件)
 * [Autocall相关](#Autocall相关)
@@ -49,7 +49,7 @@ Lycamobile Sim卡激活
 
 ##### Autocall
 - Autocall_v16: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
-##### 神彩
+##### 神彩(以前是Autosms)
 - 神彩 V27: [https://drive.google.com/file/d/1hA1WSj2IdhhG3r5LSfxL1ekXr1_p0ITw/view?usp=sharing](https://drive.google.com/file/d/1hA1WSj2IdhhG3r5LSfxL1ekXr1_p0ITw/view?usp=sharing)
 ##### MTK自改串工具
 - MTK自改串工具: [https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing](https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing)
