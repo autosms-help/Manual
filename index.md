@@ -2,21 +2,33 @@
 
 ### 目录
 
+* [软件下载](#软件下载)
+    - [神彩-旧名Autosms](#神彩-旧名Autosms)
+    - [MTK自改串工具](#MTK自改串工具)
+    - [sim卡处理软件](#sim卡处理软件)
+    - [Autocall](#Autocall)
 * [Sim卡激活](#Sim卡激活)
 * [检查手机设置](#检查手机设置)
 * [手机数据网络基本排错方法](#手机数据网络基本排错方法)
 * [换卡改串号](#换卡改串号)
-* [软件下载](#软件下载)
-    - [Autocall](#Autocall)
-    - [神彩-以前是Autosms](#神彩-以前是Autosms)
-    - [MTK自改串工具](#MTK自改串工具)
-    - [sim卡处理软件](#sim卡处理软件)
 * [Autocall相关](#Autocall相关)
 * [Autocall教程](#Autocall教程)
 * [刷机教程](#刷机教程)
     - [下載地址](#下載地址)
     - [准备工作](#准备工作)
     - [製作流程](#製作流程)
+
+#### 软件下载
+
+##### 神彩-旧名Autosms
+- 神彩 V27: [https://drive.google.com/file/d/1hA1WSj2IdhhG3r5LSfxL1ekXr1_p0ITw/view?usp=sharing](https://drive.google.com/file/d/1hA1WSj2IdhhG3r5LSfxL1ekXr1_p0ITw/view?usp=sharing)
+##### MTK自改串工具
+- MTK自改串工具: [https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing](https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing)
+- MTK自改串工具（来源）:[https://tiandixing.org/viewtopic.php?f=20&t=184501&start=0](https://tiandixing.org/viewtopic.php?f=20&t=184501&start=0)
+##### sim卡处理软件
+- sim卡处理软件: [https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing](https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing)
+##### Autocall
+- Autocall_v16: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
 
 #### Sim卡激活
 Lycamobile Sim卡激活
@@ -45,18 +57,6 @@ Lycamobile Sim卡激活
 4. 验证新串号，可以在电话拨打界面，拨`*#06#`。手机上会显示当前更换后的串号。
 5. 目前BLU手机还不支持改串号功能。K3 Note支持。
 
-#### 软件下载
-
-##### Autocall
-- Autocall_v16: [https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
-##### 神彩-以前是Autosms
-- 神彩 V27: [https://drive.google.com/file/d/1hA1WSj2IdhhG3r5LSfxL1ekXr1_p0ITw/view?usp=sharing](https://drive.google.com/file/d/1hA1WSj2IdhhG3r5LSfxL1ekXr1_p0ITw/view?usp=sharing)
-##### MTK自改串工具
-- MTK自改串工具: [https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing](https://drive.google.com/file/d/1jL8c9m7qN8NNKQgsnZNmFZH7P1n4SEal/view?usp=sharing)
-- MTK自改串工具（来源）:[https://tiandixing.org/viewtopic.php?f=20&t=184501&start=0](https://tiandixing.org/viewtopic.php?f=20&t=184501&start=0)
-##### sim卡处理软件
-- sim卡处理软件: [https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing](https://drive.google.com/drive/folders/1hOilD8zFq9HRAndwjqTabkU8mSFRnHvL?usp=sharing)
-
 #### Autocall相关
 - Autocall 需要配套使用 CallActive。一般刷机后都可以正常使用。如果没有，请下载。[https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
 - 如果出现“辅助包未安装...”的字样，请下载AutoCall.zip，解压之后使用RE管理器放到/sdcard/下。
@@ -64,8 +64,6 @@ Lycamobile Sim卡激活
 1. 打开 Autocall
 2. 点击 `开始`（左下角）
 3. 选择 `开始任务`即可。这时在`状态`这一栏会开始计数。
-
-
 
 ## 刷机教程
 
