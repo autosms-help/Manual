@@ -19,7 +19,6 @@
     - [製作流程](#製作流程)
 
 #### 软件下载
-
 ##### 神彩-旧名Autosms
 - 神彩 V27: [https://drive.google.com/file/d/1hA1WSj2IdhhG3r5LSfxL1ekXr1_p0ITw/view?usp=sharing](https://drive.google.com/file/d/1hA1WSj2IdhhG3r5LSfxL1ekXr1_p0ITw/view?usp=sharing)
 ##### MTK自改串工具
@@ -60,6 +59,7 @@ Lycamobile Sim卡激活
 #### Autocall相关
 - Autocall 需要配套使用 CallActive。一般刷机后都可以正常使用。如果没有，请下载。[https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing](https://drive.google.com/drive/folders/1EgSW3tRF1tdY7TzsHkWRSwsi-04UimGn?usp=sharing)
 - 如果出现“辅助包未安装...”的字样，请下载AutoCall.zip，解压之后使用RE管理器放到/sdcard/下。
+
 #### Autocall教程
 1. 打开 Autocall
 2. 点击 `开始`（左下角）
